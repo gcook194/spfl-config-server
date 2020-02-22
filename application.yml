@@ -1,7 +1,7 @@
 ---
 zuul:
-  fixture-service-url: http:localhost:8086/fixture-service/
-  team-service-url: http:localhost:8086/team-service/
-  league-service-url: http:localhost:8086/league-service/
-  league-table-service-url: http:localhost:8086/league-table-service/
-  data-population-service-url: http:localhost:8086/data-population/
+  fixture-service-url: http://localhost:8086/fixture-service/
+  team-service-url: http://localhost:8086/team-service/
+  league-service-url: http://localhost:8086/league-service/
+  league-table-service-url: http://localhost:8086/league-table-service/
+  data-population-service-url: http://localhost:8086/data-population/
